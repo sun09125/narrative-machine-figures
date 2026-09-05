@@ -1,0 +1,11 @@
+﻿그림 번호,파일명,원본 파일명,생성 스크립트
+그림 1,fig01_swingby_consciousness_top.png,swingby_consciousness_top.png,make_fig1_swingby_top.py
+그림 2,fig02_seosul_sentiment_action.png,seosul_sentiment_action.png,make_seosul_sentiment.py
+그림 3,fig03_alarm_consciousness_top.png,alarm_consciousness_top.png,make_fig4_alarm_top.py
+그림 4,fig04_sensory_act_evolution.png,sensory_act_evolution.png,
+그림 5,fig05_recollection_evolution.png,recollection_evolution.png,
+그림 6,fig06_swingby_subject_composition.png,swingby_subject_composition.png,make_fig7_swingby_subject.py
+그림 7,fig07_phase_labels_swingby.png,phase_labels_swingby.png,
+그림 8,fig08_phase_labels_seoulimu.png,phase_labels_seoulimu.png,
+그림 9,fig09_phase_labels_alarm.png,phase_labels_alarm.png,
+그림 10,fig10_machine_human_share.png,machine_human_share.png,make_position_share.py
